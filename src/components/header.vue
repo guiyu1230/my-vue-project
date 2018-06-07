@@ -2,7 +2,7 @@
 	<div class="app-head">
 		<div class="app-head-inner">
       <router-link to="/"><img src="../assets/logo.png"></router-link>
-			<span>尚学堂旗下品牌: 云数学院|速学堂|百战程序员|优效学院线上培训-优效聚名师,学习更有效</span>
+			<span>简单vue服务商城|欢迎进入|欢迎查看</span>
 			<div class="head-nav">
 				<ul class="nav-list">
 					<li>登录</li>
