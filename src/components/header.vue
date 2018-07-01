@@ -2,7 +2,7 @@
 	<div class="app-head">
 		<div class="app-head-inner">
       <router-link to="/"><img src="../assets/logo.png"></router-link>
-			<span>简单vue服务商城|欢迎进入|欢迎查看</span>
+			<span>简单vue服务商城|欢迎进入|欢迎查看|欢迎交流</span>
 			<div class="head-nav">
 				<ul class="nav-list">
 					<li>登录</li>
